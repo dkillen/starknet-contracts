@@ -1,5 +1,5 @@
 # Dave's StarkNet Playground
-This is a repository for all the StarkNet contracts that I am working and playing with to gain a better undestanding of Cairo and StarkNet.
+This is a repository for StarkNet contracts that I am working and playing with in my quest to better undestand Cairo smart contracts for building on StarkNet.
 
 ## Contracts
 
